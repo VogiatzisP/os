@@ -1,0 +1,2 @@
+Hello from functions.c!
+The result of adding 5 and 3 is: 8
